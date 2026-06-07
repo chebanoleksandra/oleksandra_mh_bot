@@ -1,0 +1,17 @@
+/shelf/
+/workspace.xml
+
+venv/
+.venv/
+env/
+ENV/
+
+.env
+
+pycache/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+data/data.json
+temp/
